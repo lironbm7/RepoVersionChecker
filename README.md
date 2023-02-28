@@ -72,16 +72,7 @@ New version of Prowler detected: 3.2.4
 * Logs are generated in `versions.txt` and backup in the `versions_{date}.txt`.
 
 
-## Contributing
 
-If you would like to contribute to this project, please open an issue or pull request on GitHub.
-
-
-## Authors & License
-
-[@lironbm7](https://github.com/lironbm7)
-
-This project is licensed under the MIT license. See the LICENSE file for more details.
 
 
 
