@@ -7,8 +7,6 @@
 
 - [Overview](#overview)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Authors & License](#authors--license)
 
 ## Overview
 
