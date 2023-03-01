@@ -49,7 +49,7 @@ for repo_name, repo_url in repos.items():
     version_text = soup.select_one("div.d-flex > span.css-truncate.css-truncate-target.text-bold.mr-2").text.strip()
     version_text = re.sub(r"[^\d.]", "", version_text)  # regex to only keep numbers (0-9) & dots (.)
     if version_text != version_info.get(repo_name):
-        print(f"New version of {repo_name} detected: {version_text}")
+        print(f"Latest version of {repo_name} changed: {version_text}")
         version_info[repo_name] = version_text
         findings += 1
 
