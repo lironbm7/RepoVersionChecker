@@ -63,9 +63,9 @@ All tools are up to date.
 * Scenario 2: Tool has a newer version
 ```python
 Backup created.
-New version of Semgrep detected: 1.13.0
-New version of OSV_Scanner detected: 1.2.0
-New version of Prowler detected: 3.2.4
+Latest version of Semgrep changed: 1.13.0
+Latest version of OSV_Scanner changed: 1.2.0
+Latest version of Prowler changed: 3.2.4
 ```
 * Logs are generated in `versions.txt` and backup in the `versions_{date}.txt`.
 
